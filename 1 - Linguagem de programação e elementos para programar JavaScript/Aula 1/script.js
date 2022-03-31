@@ -1,3 +1,6 @@
+//Explicação no youtube:
+// https://youtu.be/rv3yMi5q9ZE
+
 a = 81;
 b = 2;
 
