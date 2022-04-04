@@ -1,0 +1,52 @@
+//return 5*Fator(4)
+//= 5*4*Fator(3)
+//= 5*4*3*Fator(2)
+//= 5*4*3*2*Fator(1)
+//= 5*4*3*2*1 = 120
+
+function Fator(5) {
+  if (5==0 || 5==1) {
+    return 1;
+  } else {
+    return (5 * Fator(5-1));
+    //5*Fator(4)
+  }
+}
+
+
+function Fator(4) {
+  if (4==0 || 4==1) {
+    return 1;
+  } else {
+    return (4 * Fator(4-1));
+    //4*Fator(3)
+  }
+}
+
+
+function Fator(3) {
+  if (3==0 || 3==1) {
+    return 1;
+  } else {
+    return (3 * Fator(3-1));
+    //3*Fator(2)
+  }
+}
+
+function Fator(2) {
+  if (2==0 || 2==1) {
+    return 1;
+  } else {
+    return (2 * Fator(2-1));
+    //2*Fator(1)
+  }
+}
+
+function Fator(1) {
+  if (1==0 || 1==1) {
+    return 1;
+  } else {
+    return (1 * Fator(1-1));
+    //1*Fator(0)
+  }
+}

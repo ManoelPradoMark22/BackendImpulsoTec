@@ -1,0 +1,57 @@
+function FatProc(n, f) {
+  if (n==0 || n==1) {
+    document.write("<br>PROCEDIMENTO => O fatorial é: " + f + "<br>");
+  } else {
+    FatProc(n-1, f*n);
+  }
+}
+
+function FatProc(5, 1) {
+  if (5==0 || 5==1) {
+    document.write("<br>PROCEDIMENTO => O fatorial é: " + 1 + "<br>");
+  } else {
+    FatProc(5-1, 1*5);
+    //n=4 ; f=5
+    //FatProc(4, 5)
+  }
+}
+
+function FatProc(4, 5) {
+  if (4==0 || 4==1) {
+    document.write("<br>PROCEDIMENTO => O fatorial é: " + 5 + "<br>");
+  } else {
+    FatProc(4-1, 5*4);
+    //n=3 ; f=20
+    //FatProc(3, 20)
+  }
+}
+
+function FatProc(3, 20) {
+  if (3==0 || 3==1) {
+    document.write("<br>PROCEDIMENTO => O fatorial é: " + 20 + "<br>");
+  } else {
+    FatProc(3-1, 20*3);
+    //n=2 ; f=60
+    //FatProc(2, 60)
+  }
+}
+
+function FatProc(2, 60) {
+  if (2==0 || 2==1) {
+    document.write("<br>PROCEDIMENTO => O fatorial é: " + 60 + "<br>");
+  } else {
+    FatProc(2-1, 60*2);
+    //n=1 ; f=120
+    //FatProc(1, 120)
+  }
+}
+
+function FatProc(1, 120) {
+  if (1==0 || 1==1) {
+    document.write("<br>PROCEDIMENTO => O fatorial é: " + 120 + "<br>");
+  } else {
+    FatProc(1-1, 120*1);
+    //n=0 ; f=120
+    //FatProc(0, 120)
+  }
+}
