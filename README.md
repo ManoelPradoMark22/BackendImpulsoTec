@@ -1,5 +1,5 @@
 # BackendImpulsoTec
 Olá, sou Manoel Prado e atualmente sou aluno do Programa Impulso Tec (que contou com 24 mil candidatos no Brasil todo para apenas 200 vagas) na trilha de BACK-END Javascript - por isso o nome do canal JavaScipt Talent, sendo que Talent é devido ao fato de os fundadores do programa nos chamarem dessa forma. Os vídeos aqui postados sou eu tentando desmistificar um pouco o mundo da Lógica de Programação de uma maneira mais simples e de fácil entendimento. Nessa jornada vamos aprender também JavaScript, juntos, desde a base. Isso porque, nos grupos e reuniões do programa, notei que tem muitos talentos que estão começando nessa área do completo ZERO, e isso me fez lembrar do meu antigo eu, começando do zero também anos atrás... então não pensei duas vezes e cá estou eu com vocês, aprendendo e ensinando um pouco, todos juntos. Vamos lá TALENTOS! Nós podemos! Voemos ALTO! 🚀
 
-Link da Playlist:
+Link da Playlist das aulas no youtube:
 https://www.youtube.com/watch?v=rv3yMi5q9ZE&list=PLVzNTI7PPjn0YVTRUCFVIRnjNV63l0iGt&ab_channel=ManoelPrado
